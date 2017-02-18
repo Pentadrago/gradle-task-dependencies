@@ -1,0 +1,3 @@
+tasks.task1.dependsOn ([':moduleB:task1',':moduleC:task1'])
+
+tasks.task2.dependsOn ([':moduleB:task2',':moduleC:task2'])

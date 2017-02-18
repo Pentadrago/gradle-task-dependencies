@@ -1,0 +1,5 @@
+rootProject.name = 'GradleTaskDependencies'
+
+include ':moduleA',':moduleB',':moduleC'
+
+
